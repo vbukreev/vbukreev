@@ -6,6 +6,8 @@
 
 🧠 Developing games with Python and integrating machine learning to create smarter, more dynamic gameplay experiences.
 
+🚀 Exploring the power of CUDA for high-performance computing and enhancing game graphics and simulations.
+
 🌱 Always eager to learn new technologies and collaborate on exciting projects.
 
 📚 Actively participating in game jams and contributing to open-source game development communities.
