@@ -1,4 +1,4 @@
-👨‍💻 Software Engineering Student | Aspiring Game Developer
+👨‍💻 Software Engineering Student | Aspiring Software Developer
 
 🎮 Passionate about creating immersive gaming experiences and exploring the intersection of technology and creativity.
 
