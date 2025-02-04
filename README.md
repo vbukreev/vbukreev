@@ -1,13 +1,11 @@
-👨‍💻 Software Engineering Student | Aspiring Software Developer
+👨‍💻 Software Engineering Student | Machine Learning Focused
 
-🎮 Passionate about creating immersive gaming experiences and exploring the intersection of technology and creativity.
+🚀 Passionate about real-time graphics, AI-driven gameplay, and high-performance computing.
 
-🔧 Currently honing my skills in game development using Unity and Unreal Engine, with a focus on C# and C++.
+🔧 Proficient in C++, C#, and Python, developing interactive experiences with Unity, Unreal Engine, and CUDA.
 
-🧠 Developing games with Python and integrating machine learning to create smarter, more dynamic gameplay experiences.
+🧠 Exploring AI-driven gameplay using machine learning and reinforcement learning for smarter game mechanics.
 
-🚀 Exploring the power of CUDA for high-performance computing and enhancing game graphics and simulations.
+⚡ Optimizing graphics & simulations with CUDA and parallel computing to push real-time performance boundaries.
 
-🌱 Always eager to learn new technologies and collaborate on exciting projects.
-
-📚 Actively participating in game jams and contributing to open-source game development communities.
+📚 Active in game jams, open-source projects, and research on AI-accelerated rendering & physics simulations.
