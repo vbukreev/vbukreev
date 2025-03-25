@@ -1,4 +1,4 @@
-👨‍💻 Software Engineering Student | Machine Learning Focused
+👨‍💻 Software Engineering Student | AI, Machine Learning
 
 🚀 Passionate about real-time graphics, AI-driven gameplay, and high-performance computing.
 
